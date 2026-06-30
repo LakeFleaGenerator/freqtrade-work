@@ -3,6 +3,8 @@
 # Freqtrade-work
 Freqtrade is an advanced, open-source algorithmic crypto-asset analysis and trading framework written in Python. It provides a modular, powerful, and highly flexible environment designed to automate quantitative strategies, perform extensive historical data simulation (backtesting), and implement robust risk management protocols. Developed actively by the community, the project caters to both computational trading students and quantitative analysts.
 
+* 64386298
+
 ### Key Features
 
 * **Multi-Platform Connectivity:** Utilizing the CCXT library, the system connects with major centralized crypto-asset digital exchanges. It supports both spot and perpetual markets with user-defined leverage configurations.
